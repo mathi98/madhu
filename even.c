@@ -8,11 +8,12 @@ int num;
 	
 if(num%2==0)
 	
-printf("The given number is valid");
-	
+printf("Even");
+else if(num<0)
+	printf("invalid");
 else
 	
-printf("The given number is invalid");
+printf("Odd");
 
 	return 0;
 	
