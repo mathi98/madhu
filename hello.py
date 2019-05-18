@@ -1,3 +1,3 @@
-a=int(input())
-for i in range(a):
+n=int(input())
+for counter in range(n):
   print("Hello")
