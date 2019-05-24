@@ -1,0 +1,5 @@
+k=int(input())
+a=list(map(int,input().split()))
+l=sorted(a)
+print(l[0],end=" ")
+print(l[-1],end=" ")
