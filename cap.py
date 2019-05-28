@@ -1,0 +1,6 @@
+k=input()
+l=k.split()
+a=int(l[1])
+b=int(l[-1])
+c=(a**b)
+print(c)
