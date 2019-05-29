@@ -1,0 +1,6 @@
+k,l,m=input().split()
+a=int(k)
+b=int(l)
+c=int(m)
+e=(c/2)+(2*a+(c-1)*b)
+print(int(e))
