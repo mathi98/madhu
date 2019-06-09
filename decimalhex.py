@@ -1,2 +1,2 @@
-k=input()
-print(int(k,16))
+z=input()
+print(int(z,16))
